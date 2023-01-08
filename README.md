@@ -61,4 +61,4 @@ I built a new pcs dataframe which contains PC columns.
 
 ## Summary
 
-Based on my analysis, the cryptocurrency investment can be divided into four classes. Each class would need to be thorougly analyzed to determine risk, performance, and other factors that would be of interest ot potential clients.
+Based on my analysis, the cryptocurrency investment portfolio can be grouped into four classes. I believe a next step would be to evaluate the risk, performance, and other relevant factors associated with each class.
