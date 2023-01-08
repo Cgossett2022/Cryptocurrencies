@@ -34,29 +34,31 @@ I built a new pcs dataframe which contains PC columns.
 
 2. I created a clustered dataframe which combined the crypto_df and pcs_df.
 
-<img width="797" alt="clustered_df" src="https://user-images.githubusercontent.com/111243284/211222454-f65287a9-8ab8-414f-ae52-d21c9f1558de.png">
+<img width="796" alt="clustered_df" src="https://user-images.githubusercontent.com/111243284/211223619-3255de8d-f02a-4fb4-a5bd-ed737666fe82.png">
 
 
 ### Visualized Cryptocurrencies Results
 
 1. I built a 3D-Scatter plot to illustrate the PCA data and the clusters.
 
-<img width="778" alt="3d_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211222509-b9685bf5-c33d-460b-ae3c-698f4179775f.png">
+<img width="777" alt="3d_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211223626-2338d25a-a360-4395-a365-f18dd78aeae7.png">
+
 
 2. I made a table which contains only the tradable cryptocurrencies and found that there are 532.
 
-<img width="756" alt="tradable_crypto_table" src="https://user-images.githubusercontent.com/111243284/211222536-0017bfb2-c89d-4394-ad1d-eca02451be0a.png">
+<img width="759" alt="tradable_crypto_table" src="https://user-images.githubusercontent.com/111243284/211223641-9de30520-7492-45d5-b81c-25dddb9030a2.png">
 
 
-3. I created a final dataframe which would includes the scaled data with the clustered dataframe.
+3. I created a plot dataframe which would includes the scaled data with the clustered dataframe.
 
-<img width="440" alt="plot_df" src="https://user-images.githubusercontent.com/111243284/211222606-d6b67365-b6f0-494a-93bd-ce82b08de534.png">
+<img width="456" alt="plot_df" src="https://user-images.githubusercontent.com/111243284/211223656-6cbde5f9-d3a3-4b40-9b92-5a1726e36785.png">
+
 
 4. I created a scatter plot which displays Total Coins Supply, Total Coins Mined, Classes, and Coin Names.
 
-<img width="748" alt="hv_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211222646-e08f202c-e76f-43f2-b596-3a35d93a64d2.png">
+<img width="759" alt="hv_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211223665-df5eea0f-f8b4-4e61-886e-ffe65e80d847.png">
 
 
 ## Summary
 
-Based on my analysis, the cryptocurrency investment can be divided into three classes. Classes 0 and 1 appear to be the most similar and contain about the same risk. However, Class 2 only contains one cryptocurrency and would have different risks.
+Based on my analysis, the cryptocurrency investment can be divided into four classes. Classes 0 and 1 appear to be the most similar and contain about the same risk. However, Class 2 only contains one cryptocurrency and would have different risks.
