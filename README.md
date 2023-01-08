@@ -61,4 +61,4 @@ I built a new pcs dataframe which contains PC columns.
 
 ## Summary
 
-Based on my analysis, the cryptocurrency investment can be divided into four classes. Classes 0 and 1 appear to be the most similar and contain about the same risk. However, Class 2 only contains one cryptocurrency and would have different risks.
+Based on my analysis, the cryptocurrency investment can be divided into four classes. Each class would need to be thorougly analyzed to determine risk, performance, and other factors that would be of interest ot potential clients.
