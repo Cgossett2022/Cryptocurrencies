@@ -25,7 +25,36 @@ I built a new dataframe to which contains PC columns.
 <img width="269" alt="pcs_df" src="https://user-images.githubusercontent.com/111243284/211222228-fee82280-8941-4972-9308-f940e311849b.png">
 
 
+### Clustered Cryptocurrencies Using K-Means
 
+I created an Elbow Curve based on the pcs dataframe
+
+<img width="785" alt="elbow_curve" src="https://user-images.githubusercontent.com/111243284/211222444-ba8cd3dd-f53f-413d-80e0-f11783b817bf.png">
+
+
+I created a clustered dataframe which combined the crypto_df and pcs_df.
+
+<img width="797" alt="clustered_df" src="https://user-images.githubusercontent.com/111243284/211222454-f65287a9-8ab8-414f-ae52-d21c9f1558de.png">
+
+
+### Visualized Cryptocurrencies Results
+
+I created a 3D-Scatter plot to illustrate the PCA data and the clusters.
+
+<img width="778" alt="3d_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211222509-b9685bf5-c33d-460b-ae3c-698f4179775f.png">
+
+I made a table which contains only the tradable cryptocurrencies.
+
+<img width="756" alt="tradable_crypto_table" src="https://user-images.githubusercontent.com/111243284/211222536-0017bfb2-c89d-4394-ad1d-eca02451be0a.png">
+
+
+I created a final dataframe which would serve as my foundation for a plot.
+
+<img width="440" alt="plot_df" src="https://user-images.githubusercontent.com/111243284/211222606-d6b67365-b6f0-494a-93bd-ce82b08de534.png">
+
+I created a scatter plot which displays Total Coins Supply, Total Coins Mined, Classes, and Coin Names.
+
+<img width="748" alt="hv_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211222646-e08f202c-e76f-43f2-b596-3a35d93a64d2.png">
 
 
 ## Summary
