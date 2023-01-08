@@ -43,7 +43,7 @@ I built a new pcs dataframe which contains PC columns.
 
 <img width="778" alt="3d_scatter_plot" src="https://user-images.githubusercontent.com/111243284/211222509-b9685bf5-c33d-460b-ae3c-698f4179775f.png">
 
-2. I made a table which contains only the tradable cryptocurrencies.
+2. I made a table which contains only the tradable cryptocurrencies and found that there are 532.
 
 <img width="756" alt="tradable_crypto_table" src="https://user-images.githubusercontent.com/111243284/211222536-0017bfb2-c89d-4394-ad1d-eca02451be0a.png">
 
@@ -59,4 +59,4 @@ I built a new pcs dataframe which contains PC columns.
 
 ## Summary
 
-Based on my analysis, the cryptocurrency investment can be divided into three classes.
+Based on my analysis, the cryptocurrency investment can be divided into three classes. Classes 0 and 1 appear to be the most similar and contain about the same risk. However, Class 2 only contains one cryptocurrency and would have different risks.
